@@ -9,7 +9,7 @@
  * **/
 
 @import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css");
-
+/*
 .panels-3wFtMD .container-YkUktl:last-child .flex-2S1XBF::before {
     display: none;
 }
@@ -42,4 +42,4 @@ nav.wrapper-1_HaEi.guilds-2JjMmN {
 }
 #app-mount .guilds-2JjMmN [class*=pill] {
     transform: rotate(90deg) translate(55px, -44%);
-}
+}*/
