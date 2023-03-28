@@ -1,0 +1,57 @@
+/**
+* @name Windows Titlebar
+* @author Lucy#3030
+* @version 1.0
+* @description A theme which themes the titlebar to look more like the Windows 10 titlebar
+*/
+
+#app-mount > div.typeWindows-2-g3UY.withFrame-2dL45i.titleBar-1it3bQ.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr {
+  height: 22px !important;
+  display: flex !important;
+  align-items: center ;
+  padding-top: 5px;
+  background-color: var(--background-tertiary) !important;
+}
+#app-mount > div.typeWindows-2-g3UY.withFrame-2dL45i.titleBar-1it3bQ.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr > div.wordmarkWindows-2dq6rw.wordmark-2u86JB {
+    height: 22px;
+    display: flex;
+    align-items: center;
+}
+#app-mount > div.typeWindows-2-g3UY.withFrame-2dL45i.titleBar-1it3bQ.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr > div.wordmarkWindows-2dq6rw.wordmark-2u86JB::before{
+    background-image: url(https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png);
+    content: "Discord";
+    display: inline;
+    width: 20px;
+    height: 20px;
+    background-size: 20px 20px;
+
+}
+#app-mount > div.typeWindows-2-g3UY.withFrame-2dL45i.titleBar-1it3bQ.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr > div.wordmarkWindows-2dq6rw.wordmark-2u86JB::after {
+    content: "Discord";
+    height: 22px;
+    font-family: "segoe ui";
+    font-size: 9pt;
+    align-self: center;
+    display: flex;
+    align-items: center;
+    margin-left: 6px;
+}
+#app-mount > div.typeWindows-2-g3UY.withFrame-2dL45i.titleBar-1it3bQ.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr > div.wordmarkWindows-2dq6rw.wordmark-2u86JB > svg {
+  display: none;
+}
+.titleBar-1it3bQ > .alignCenter-14kD11 {
+  height: 30px !important;
+  width: 46px;
+  z-index: 9999;
+  bottom: 1px;
+  display: flex;
+  align-items: center;
+}
+#app-mount > div.typeWindows-2-g3UY.withFrame-2dL45i.titleBar-1it3bQ.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr > div.winButtonClose-3Q8ZH5.winButton-3UMjdg.flexCenter-1Mwsxg.flex-3BkGQD.justifyCenter-rrurWZ.alignCenter-14kD11:hover{
+  background-color: #C42B1C;
+}
+
+.alignCenter-14kD11 > svg {
+  align-items: center;
+  display: flex;
+}
