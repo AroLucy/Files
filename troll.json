@@ -28,9 +28,9 @@
         "early": true,
         "booster": true,
         "custom": {
-            "name": null,
-            "icon": null,
-            "color": null
+            "name": "Funny trans person",
+            "icon": "https://cdn.discordapp.com/attachments/991407475150573659/1092484916178075658/EAE7992F-1AD6-4FDE-834A-5B23DEA61FAF.png",
+            "color": "85b2c8"
         }
     },
     "vencord": {
