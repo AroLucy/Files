@@ -48,7 +48,7 @@
                 }
             }
         },
-        "developer": {
+        "dev": {
             "data": {
                 "name": "Enmity Developer",
                 "id": "developer",
