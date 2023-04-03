@@ -1,0 +1,39 @@
+{
+    "customBadgesArray": false,
+    "aliu": {
+        "dev": true,
+        "donor": true,
+        "contributor": true,
+        "custom": true,
+        "test": {
+            "roles": null
+        }
+    },
+    "bd": {
+        "dev": true
+    },
+    "goosemod": {
+        "sponsor": true,
+        "dev": true,
+        "translator": true
+    },
+    "enmity": true,
+    "replugged": {
+        "developer": true,
+        "staff": true,
+        "support": true,
+        "contributor": true,
+        "translator": true,
+        "hunter": true,
+        "early": true,
+        "booster": true,
+        "custom": {
+            "name": null,
+            "icon": null,
+            "color": null
+        }
+    },
+    "vencord": {
+        "contributor": true
+    }
+}
