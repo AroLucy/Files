@@ -75,6 +75,10 @@
         }
     },
     "vencord": {
-        "contributor": true
+        "contributor": true,
+        "cutie": {
+            "tooltip": "true shiggy fan",
+            "image": "https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=256"
+        }
     }
 }
