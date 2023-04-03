@@ -51,7 +51,7 @@
         "dev": {
             "data": {
                 "name": "Enmity Developer",
-                "id": "developer",
+                "id": "dev",
                 "url": {
                     "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/dev.png",
                     "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/dev.png"
