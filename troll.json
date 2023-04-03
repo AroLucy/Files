@@ -17,7 +17,48 @@
         "dev": true,
         "translator": true
     },
-    "enmity": true,
+    "enmity": {
+        "staff": {
+            "data": {
+                "name": "Enmity Staff",
+                "id": "staff",
+                "url": {
+                    "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/staff.png",
+                    "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/staff.png"
+                }
+            }
+        },
+        "contributor": {
+            "data": {
+                "name": "Enmity Contributor",
+                "id": "contributor",
+                "url": {
+                    "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/contributor.png",
+                    "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/contributor.png"
+                }
+            }
+        },
+        "supporter": {
+            "data": {
+                "name": "Enmity Supporter",
+                "id": "supporter",
+                "url": {
+                    "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/supporter.png",
+                    "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/supporter.png"
+                }
+            }
+        },
+        "developer": {
+            "data": {
+                "name": "Enmity Developer",
+                "id": "developer",
+                "url": {
+                    "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/dev.png",
+                    "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/dev.png"
+                }
+            }
+        }
+    },
     "replugged": {
         "developer": true,
         "staff": true,
